@@ -1,0 +1,15 @@
+{
+  "name": "reto-3-dias-sin-fumar",
+  "version": "1.0.0",
+  "description": "Aplicación web para el reto de 3 días sin fumar",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "Emmanuel Mota",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
